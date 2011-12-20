@@ -28,8 +28,25 @@ Lathundar (cheat sheets, checklistor)
 * Markdown
 * Wiki
 
+Vanliga problem
+* Raderad fil vägrar att låta sig raderas på Github
+* Lösenord uppladdade av misstag
+
 Mycket enkla teoretiska grunder i Git (videomanus)
+
 * Vad är versionskontroll
 * Staging - local repo - Github
+
+
+Koncept för kursen mjukvarudesign
+
+* Checkout
+* Clone/fork
+* Branch
+* Diff
+* Merge
+* Patch
+* Tags
+* Git kontra SVN
 
  
